@@ -1,11 +1,40 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "AottgBotLib/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AottgBotLib.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AottgBotLib.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AottgBotLib/1.0.0": {
+      "sha512": "uRQT0r5u8CAGcTqWynaA2mVwlWYQvdVD+06c7KPCins1iU89oB56XW/a0ZRb5NJtRzfTgv69saXOXUh3nWkJOw==",
+      "type": "package",
+      "path": "aottgbotlib/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "aottgbotlib.1.0.0.nupkg.sha512",
+        "aottgbotlib.nuspec",
+        "lib/netcoreapp3.1/AottgBotLib.dll",
+        "lib/netcoreapp3.1/AottgBotLib.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "AottgBotLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/jack/.nuget/packages/": {}
@@ -43,6 +72,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "AottgBotLib": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

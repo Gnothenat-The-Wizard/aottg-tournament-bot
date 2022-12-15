@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9MC1AqT6rr2SWybIRo3xMz6vdT0qawiWLC+yyBvGbK/pOlXEWZVkFLbveolqjKF8qDn++ZedpnPK023S5b1f+w==",
+  "dgSpecHash": "a1ROwB8MF4FuPLMcxKoGS5R+XpuIF4M0X8iXuWS2o1NQwo8k/YGTiokkYiUsvQgL3ATj6UlhDQ4JOsiHk4NgvQ==",
   "success": true,
   "projectFilePath": "/Users/jack/Documents/GitHub/aottg-tournament-bot/aottg-tournament-bot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jack/.nuget/packages/aottgbotlib/1.0.0/aottgbotlib.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

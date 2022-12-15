@@ -3,11 +3,15 @@
 /Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/aottg-tournament-bot.runtimeconfig.json
 /Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/aottg-tournament-bot.dll
 /Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/aottg-tournament-bot.pdb
+/Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/AottgBotLib.dll
+/Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/Photon-NetStandard.dll
+/Users/jack/Documents/GitHub/aottg-tournament-bot/bin/Debug/net7.0/PhotonRealtime-NetStandard.dll
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.csproj.AssemblyReference.cache
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.AssemblyInfoInputs.cache
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.AssemblyInfo.cs
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.csproj.CoreCompileInputs.cache
+/Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.csproj.CopyComplete
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.dll
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/refint/aottg-tournament-bot.dll
 /Users/jack/Documents/GitHub/aottg-tournament-bot/obj/Debug/net7.0/aottg-tournament-bot.pdb
